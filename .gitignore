@@ -29,3 +29,5 @@ yarn-error.log*
 # assets
 /public/3d-model.glb
 /public/3d-model.gltf
+/public/3d-model_binary.bin
+/public/3d-model_images/
