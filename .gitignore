@@ -25,3 +25,7 @@ yarn-error.log*
 
 # IntelliJ
 /.idea
+
+# assets
+/public/3d-model.glb
+/public/3d-model.gltf
